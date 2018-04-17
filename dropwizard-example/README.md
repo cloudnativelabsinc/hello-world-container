@@ -1,6 +1,6 @@
 # Dropwizard Example Application
 
-How to start the Dropwizard Example Application application
+How to start the Dropwizard Example Application
 ---
 
 1. Run `mvn clean install` to build your application
